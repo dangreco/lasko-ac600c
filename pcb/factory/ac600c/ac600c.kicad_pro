@@ -316,6 +316,19 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "33abde8c-d192-4992-a95d-0350fa5e244a",
+      ""
+    ],
+    [
+      "10b0b6a4-7c44-4480-9ee2-18f7870d16a1",
+      "Plasma"
+    ],
+    [
+      "18862fb4-4ee0-4443-8c5c-970e44f55595",
+      "Speed Controller"
+    ]
+  ],
   "text_variables": {}
 }
